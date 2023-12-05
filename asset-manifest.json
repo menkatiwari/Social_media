@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/menkatiwari/Social_media/static/css/main.7b5186d1.css",
+    "main.js": "/menkatiwari/Social_media/static/js/main.faa61299.js",
+    "static/js/787.88e5fa36.chunk.js": "/menkatiwari/Social_media/static/js/787.88e5fa36.chunk.js",
+    "index.html": "/menkatiwari/Social_media/index.html",
+    "main.7b5186d1.css.map": "/menkatiwari/Social_media/static/css/main.7b5186d1.css.map",
+    "main.faa61299.js.map": "/menkatiwari/Social_media/static/js/main.faa61299.js.map",
+    "787.88e5fa36.chunk.js.map": "/menkatiwari/Social_media/static/js/787.88e5fa36.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b5186d1.css",
+    "static/js/main.faa61299.js"
+  ]
+}
